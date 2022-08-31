@@ -1,4 +1,4 @@
-# My_Android_Apps
+# My Android Apps
 
 1) Arab Weather app -------> https://github.com/omr1k/Arab_Weather_App
 2) Durg Recognizer --------> https://github.com/omr1k/Drug_Recognizer
@@ -10,3 +10,7 @@
 8) Text Detector ----------> https://github.com/omr1k/Text_Detector
 9) BMI Calculator ---------> https://github.com/omr1k/BMI_Calculator
 10) Currency Converter ----> https://github.com/omr1k/Currency_Converter
+
+All the apps are available at google paly store on my developer account ---> https://play.google.com/store/apps/dev?id=7955012686824531086
+
+![](a1.png)
