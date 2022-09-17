@@ -12,6 +12,6 @@
 10) Currency Converter 👉 https://github.com/omr1k/Currency_Converter
 
 # All the apps are available at google paly store on my developer account
-link ---> https://play.google.com/store/apps/dev?id=7955012686824531086
+link 👉 https://play.google.com/store/apps/dev?id=7955012686824531086
 
 ![](a1.png)
