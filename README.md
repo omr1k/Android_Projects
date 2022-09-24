@@ -13,7 +13,7 @@
 
 [Check The app on google play store](https://play.google.com/store/apps/details?id=com.omarstudiolimited.weatherapp)
 
-<div align="center">
+<div align="left">
 <img src="screenshots/w1.png" height="466" width="466" alt="Pixel"/>
 <img src="screenshots/w2.png" height="466" width="466" alt="Pixel"/>
 </div>
