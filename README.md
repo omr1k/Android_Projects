@@ -27,8 +27,8 @@
 <img src="screenshots/GBA1.png" height="466" width="466" alt="Pixel"  />
 <img src="screenshots/GBA2.png" height="466" width="466" alt="Pixel"  />
 <img src="screenshots/GBA3.png" height="466" width="466" alt="Pixel"  />
-<img src="screenshots/GB4.png" height="466" width="466" alt="Pixel"  />
-<img src="screenshots/GB5.png" height="466" width="466" alt="Pixel"  />
+<img src="screenshots/GBA4.png" height="466" width="466" alt="Pixel"  />
+<img src="screenshots/GBA5.png" height="466" width="466" alt="Pixel"  />
 <img src="screenshots/GBA6.png" height="466" width="466" alt="Pixel"  />
 </div>
 
