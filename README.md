@@ -49,8 +49,8 @@
 [Check The app on google play store](https://play.google.com/store/apps/details?id=com.omarstudiolimited.programming_quizzes)
 
 <div align="center">
-<img src="screenshots/q1.png" height="100" width="100" alt="Pixel"/>
-<img src="screenshots/q2.png" height="100" width="100" alt="Pixel"/>
-<img src="screenshots/q3.png" height="100" width="100" alt="Pixel"/>
+<img src="screenshots/q1.png" height="400" width="400" alt="Pixel"/>
+<img src="screenshots/q2.png" height="400" width="400" alt="Pixel"/>
+<img src="screenshots/q3.png" height="400" width="400" alt="Pixel"/>
 </div>
 
